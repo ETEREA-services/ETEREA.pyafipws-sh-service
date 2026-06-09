@@ -197,6 +197,7 @@ curl -X POST "http://localhost:5086/api/afipws/facturador" \
 
 - 📚 [Guía de Swagger](docs/SWAGGER_GUIDE.md) - Documentación completa de la API
 - 🚀 [Ejemplo de uso](examples/api_usage.py) - Script de ejemplo para probar la API
+- 
 
 ## Licencia
 
